@@ -1,0 +1,19 @@
+pip3 install requests
+pip3 install lxml
+pip3 install beautifulsoup
+
+https://scrapingclub.com/
+http://quotes.toscrape.com/
+
+https://chromedriver.storage.googleapis.com/index.html?path=81.0.4044.69/
+
+dhtmlgoodies.com
+https://www.seleniumeasy.com/
+
+https://www.upcitemdb.com/api/explorer#!/lookup/get_trial_lookup
+
+https://openweathermap.org/api
+
+https://rapidapi.com/
+
+https://automatetheboringstuff.com/

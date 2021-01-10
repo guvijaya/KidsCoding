@@ -1,7 +1,8 @@
 import random
 
+
 def GetRandomMonth():
-    r = random.randint(1,12)
+    r = random.randint(1, 12)
     switcher = {
         1: "January",
         2: "February",
@@ -17,5 +18,6 @@ def GetRandomMonth():
         12: "December"
     }
     return switcher.get(r, "Invalid month")
+
 
 print(GetRandomMonth())
