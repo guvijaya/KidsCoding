@@ -19,7 +19,8 @@ namespace CSharp
             // CSharpExample.InheritanceDemo.Demo();
             // CSharpExample.ExceptionsExample.Demo();
             // EnumExample.Demo();
-            StackQueueExample.Demo();
+            // StackQueueExample.Demo();
+            StringReverse.Demo();
         }
     }
 }
