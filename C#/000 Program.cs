@@ -7,6 +7,9 @@ namespace CSharp
 
         static void Main(string[] args)
         {
+            // let's keep all the demo function call here
+            // no actual code here.
+
             // PrimeNumber.Demo();
             // NameMatchScore.Demo();
             // ArrayExamples.Demo();
