@@ -6,6 +6,7 @@
 
 <h3>Exercise Questions: </h3>
 <p>https://www.w3schools.com/cs/exercise.asp?filename=exercise_variables1 </p>
+<p>https://www.w3schools.com/python/exercise.asp?filename=exercise_syntax1</p>
 <p>https://edabit.com/challenges/csharp#!</p>
 <p>https://exercism.io/tracks/csharp/exercises</p>
 
