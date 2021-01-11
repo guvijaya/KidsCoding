@@ -4,7 +4,7 @@
 <p>Python: https://www.sololearn.com/learning/1073 </p>
 <p>C#: https://www.sololearn.com/learning/1080 </p>
 
-<h3>Excercise Questions: </h3>
+<h3>Exercise Questions: </h3>
 <p>https://www.w3schools.com/cs/exercise.asp?filename=exercise_variables1 </p>
 <p>https://edabit.com/challenges/csharp#!</p>
 <p>https://exercism.io/tracks/csharp/exercises</p>
