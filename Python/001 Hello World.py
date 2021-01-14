@@ -8,6 +8,7 @@ print(x)
 - -> Subtraction
 * -> Mulitplication
 / -> Division
+% -> Remainder
 ** -> Expontation
 '''
 

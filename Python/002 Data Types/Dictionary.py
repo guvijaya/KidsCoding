@@ -4,16 +4,6 @@ A dictionary is a collection which is unordered, changeable and does not allow d
 Dictionaries are written with curly brackets, and have keys and values:
 '''
 
-# List of values
-lst = ["Shwetha", "Shreya", "Vishal", "Shreya"]
-for x in lst:
-    print(x)
-
-print("")
-
-for i in range(len(lst)):
-    print(lst[i])
-
 # Dictionaries in Python Key : value pair
 dic = {"Shwetha": 23,
        "Shreya": 99,

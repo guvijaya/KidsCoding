@@ -1,10 +1,10 @@
 int1 = 1 # This data type is an integer. 
-int2 = 2 # Also knows as int in shor form.
+int2 = 2 # Also knows as int in short form.
 print(int1 + int2) # Integer cannot have decimals
 
 str1 = "Hello " # This data type is a string.
 str2 = "World!" # Also known as str in short form.
-print(x + y)
+print(str1 + str2)
 
 Float1 = 1.5 # Floats are like integer, but can have decimals
 Float2 = int1/int2 # When integers are divided they turn into floats.
