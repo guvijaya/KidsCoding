@@ -3,6 +3,10 @@
 cars = ["Ford", "Volvo", "BMW", "Hyndai", "Toyota", "Kia", "Tesla"]
 print(cars)
 
+# List items are ordered, changeable, and allow duplicate values.
+# List items are indexed, the first item has index [0], the second item has index [1] etc.
+
+
 # In order to access the individual values, you have to follow the following example:
 
 print(cars[1])
