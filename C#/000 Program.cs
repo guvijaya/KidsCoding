@@ -23,7 +23,8 @@ namespace CSharp
             // CSharpExample.ExceptionsExample.Demo();
             // EnumExample.Demo();
             // StackQueueExample.Demo();
-            StringReverse.Demo();
+            //StringReverse.Demo();
+            Calculator.Calc();
         }
     }
 }
