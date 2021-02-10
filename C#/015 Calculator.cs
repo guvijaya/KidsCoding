@@ -7,7 +7,7 @@ namespace CSharp
   {
       public static void Calc()
       {
-        Console.WriteLine("If you want to Add click +");
+        Console.WriteLine("If you want to Add click +,to subtract -");
         string strkey = Console.ReadLine();
         Char key = strkey[0];
 
@@ -17,7 +17,7 @@ namespace CSharp
         }
         if(key == '-')
         {
-
+            subtract();
         }
       }
     public static void add()
