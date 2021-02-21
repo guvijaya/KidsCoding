@@ -20,3 +20,8 @@ Tuple items are indexed, the first item has index [0], the second item has index
 print(tuple1)
 
 # See dictionary program next...
+
+true_or_false = False # This data type describes a binary value
+true_or_false2 = True # It describes yes or no, true or false, or something or something else
+if true_or_false2:
+    print("The variable is true")
